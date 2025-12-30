@@ -35,7 +35,7 @@ El flujo consiste en calcular una **suma ponderada** de las entradas y aplicar u
 
 La base fundamental es la combinación lineal de entradas y pesos:
 
-$$\hat{y} = x_1 w_1 + x_2 w_2 + b$$
+$$\hat{y} = x_1 w_1 + x_2 w_2$$
 
 - **$\hat{y}$ (Predicción):** La estimación del modelo sobre el mundo real.
 - **$x$ (Features):** Datos de entrada.
@@ -63,11 +63,11 @@ Una sola neurona tiene limitaciones. El poder del Deep Learning reside en conect
 
 ### Tipos de Arquitecturas según el Problema
 
-|**Tipo de Datos**|**Arquitectura Recomendada**|**Siglas**|
-|---|---|---|
-|Datos Tabulares|Artificial Neural Network|**ANN**|
-|Imágenes / Visión|Convolutional Neural Network|**CNN**|
-|Audio / Texto / Series|Recurrent Neural Network|**RNN**|
+| **Tipo de Datos**      | **Arquitectura Recomendada** | **Siglas** |
+| ---------------------- | ---------------------------- | ---------- |
+| Datos Tabulares        | Artificial Neural Network    | **ANN**    |
+| Imágenes / Visión      | Convolutional Neural Network | **CNN**    |
+| Audio / Texto / Series | Recurrent Neural Network     | **RNN**    |
 
 ---
 
