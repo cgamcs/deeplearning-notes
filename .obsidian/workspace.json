@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "ef5f019ed3e0e3f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "92c19b1c6661f120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d608586fde62531b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Deep Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fundamentos de Deep Learning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa31a8565d61da1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a322dfea8927968",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95ce6ec0cfb2d50b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "ea4f8b7c9c0f502c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "8e90f321d1f29e18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9505a87330bf3a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "7de052431ce33216",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "595534d343d4dc20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SAP Notas/Chapter 3/3.1-Describing Application Development.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 3.1-Describing Application Development"
+            }
+          },
+          {
+            "id": "23209d16a0c13289",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "3ec5964803a69125",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d016efd61adfcb0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "90ce1a92ec96d73f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "95ce6ec0cfb2d50b",
+  "lastOpenFiles": [
+    "0003-IMG.png",
+    "0002-IMG.png",
+    "0001-IMG.png",
+    "Fundamentos de Deep Learning.md",
+    "SAP Cursos/Calidad/Proceso.md",
+    "SAP Cursos/Calidad",
+    "SAP Notas/Sin nombre",
+    "Hora.md",
+    "SAP Notas/Chapter 3/3.4-Adopting SAP Application Extension Methodology.md",
+    "SAP Notas/Chapter 3/3.3-Exploring the SAP S-4HANA Cloud Extensibility Model.md",
+    "SAP Notas/Chapter 3/3.2-Exploring Application Frameworks.md",
+    "SAP Notas/Chapter 3/3.0-Performing Application Development.md",
+    "SAP Notas/Chapter 3/3.1-Describing Application Development.md",
+    "SAP Cursos/Fuentes/Links.md",
+    "SAP Cursos/Fuentes",
+    "SAP Cursos",
+    "SAP Notas/Index.md",
+    "SAP Notas/Chapter 2/2.0-Summarizing SAP BTP.md",
+    "SAP Notas/Chapter 2/2.3-Summarizing SAP BTP Architecture.md",
+    "Imagenes/Pasted image 20250721094008.png",
+    "Pasted image 20250721080239.md",
+    "Imagenes/Pasted image 20250721080239.png",
+    "Imagenes/Pasted image 20250718142006.png",
+    "Imagenes/Pasted image 20250717155322.png",
+    "Imagenes/Pasted image 20250717155420.png",
+    "Imagenes/Pasted image 20250717155432.png",
+    "Imagenes/Pasted image 20250717155448.png",
+    "Imagenes/Pasted image 20250717155525.png",
+    "SAP Notas/Chapter 2/2.5-Summarizing SAP BTP Connectivity.md",
+    "SAP Notas/Chapter 2/2.4-Summarizing SAP BTP Identity and Access Management (IAM).md",
+    "SAP Notas/Chapter 2/2.2-Summarizing SAP BTP.md",
+    "SAP Notas/Chapter 2/2.1-Exploring SAP BTP Guidance, Content and More.md",
+    "SAP Notas/Chapter 1/1.2-Exploring the Two Types of Architects.md",
+    "SAP Notas/Chapter 1/1.1-Explaining the Value of Enterprise Architecture.md",
+    "SAP Notas/Chapter 8/8.1-Exploring SAP BTP Commercial Models.md",
+    "SAP Notas/Chapter 8/8.2-Estimating Costs for a Use Case.md",
+    "SAP Notas/Introduction.md",
+    "SAP Notas/Chapter 7/7.3-Discovering AI for SAP BTP's Sub-Solution Areas.md",
+    "SAP Notas/Chapter 7/7.4-Discovering Generative AI Hub in SAP AI Core.md",
+    "SAP Notas/Chapter 7/7.5-Demonstrating Generative AI Examples and Reference Architecture.md",
+    "SAP Notas/Sin título.canvas",
+    "SAP Notas/Chapter 8",
+    "SAP Notas/Chapter 7",
+    "SAP Notas/Chapter 6",
+    "SAP Notas/Chapter 5",
+    "SAP Notas/Chapter 4",
+    "SAP Notas/Chapter 3"
+  ]
+}
