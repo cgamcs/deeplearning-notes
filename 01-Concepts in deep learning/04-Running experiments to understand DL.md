@@ -1,35 +1,35 @@
-## Metodología Experimental en Deep Learning
+## Experimental Methodology in Deep Learning
 
-La ciencia de datos combina teoría y experimentación empírica.
+La **Data Science** combina teoría y experimentación empírica.
 
-### Tipos de Investigación
+### Research Approaches
 
-|**Enfoque**|**Descripción**|
+|**Approach**|**Description**|
 |---|---|
-|**Teórico**|Desarrollo de nuevas matemáticas, arquitecturas y fundamentos.|
-|**Aplicado (Ecólogo)**|Uso de modelos pre-entrenados o existentes para resolver problemas reales.|
-|**Experimental**|Manipulación sistemática de hiperparámetros para optimizar el rendimiento.|
-### Diseño de Experimentos
+|**Theoretical**|Desarrollo de nuevas **math**, **architectures** y **foundations** (no datos).|
+|**Applied (Ecologist)**|Uso de **pre-trained models** o existentes para resolver problemas reales.|
+|**Experimental**|Manipulación sistemática de **hyperparameters** para optimizar el **performance**.|
+### Experimental Design
 
-Para encontrar el mejor modelo, se iteran pruebas controladas:
+Para encontrar el mejor modelo, se realizan **controlled iterations**:
 
-- **Variables Independientes (Inputs):** Hiperparámetros (Learning rate, Batch size, Optimizador, Arquitectura).
-- **Variables Dependientes (Outputs):** Métricas de desempeño (Accuracy, Loss, Velocidad de inferencia).
+- **Independent Variables (Inputs):** **Hyperparameters** (**Learning Rate**, **Batch Size**, **Optimizer**, **Architecture**).
+- **Dependent Variables (Outputs):** **Performance Metrics** (**Accuracy**, **Loss**, **Inference Speed**).
 
-### Interpretación de Resultados
+### Interpretation of Results
 
-> [!WARNING] Interpretación Correcta vs. Incorrecta
+> [!WARNING] Correct vs. Incorrect Interpretation
 > 
-> -  **Correcto:** "Estos parámetros funcionan mejor para _esta_ arquitectura con _este_ dataset específico."
->
-> - **Correcto:** "Observo un patrón general que _podría_ transferirse a otros contextos."
+> - **Correct:** "Estos **parameters** funcionan mejor para _esta_ **architecture** con _este_ **dataset** específico."
 >     
-> - **Incorrecto:** "Este es el hiperparámetro universal para todos los modelos."
+> - **Correct:** "Observo un **general pattern** que _podría_ transferirse a otros contextos."
+>     
+> - **Incorrect:** "Este es el **universal hyperparameter** para todos los modelos."
 >     
 
-### Desafíos del Enfoque Experimental
+### Challenges of Experimental Approach
 
-1. **Viabilidad (Feasibility):** Los modelos grandes (LLMs, Vision Transformers) requieren tiempo y cómputo masivo, dificultando la iteración rápida.
-2. **Generalización:** Una optimización específica para un dataset puede no funcionar en otro ("Overfitting" a la configuración).
+1. **Feasibility:** Los modelos grandes (**LLMs**, **Vision Transformers**) requieren tiempo y **massive compute**, dificultando la **rapid iteration**.
+2. **Generalizability:** Una optimización específica para un **dataset** puede no funcionar en otro (**Overfitting** a la configuración).
 
-> _"Science is more an art than a science."_ — En DL, la intuición ganada mediante la experimentación es clave.
+> _"Science is more an art than a science."_ — En **Deep Learning**, la intuición ganada mediante la experimentación es clave.
