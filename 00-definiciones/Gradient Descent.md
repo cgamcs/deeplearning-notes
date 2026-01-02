@@ -1,0 +1,3 @@
+El algoritmo de optimización que utiliza los gradientes calculados por **Backpropagation** para actualizar los **Weights**. Decide en qué dirección y con qué magnitud (pasos) ajustar los pesos para reducir el **Loss**.
+
+- **Ejemplo:** Imagina que estás en una montaña a oscuras (el error alto). El **Gradient Descent** siente la inclinación del suelo con el pie y da un paso pequeño hacia abajo (ajuste de pesos) repetidamente hasta llegar al valle (error mínimo).

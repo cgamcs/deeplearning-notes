@@ -1,0 +1,3 @@
+Término utilizado para describir sistemas (como las **Deep Neural Networks**) donde el funcionamiento interno es opaco. Podemos ver qué entra ([[Inputs]]) y qué sale ([[Output]]), pero las representaciones intermedias son tan complejas que resulta difícil o imposible explicar _por qué_ el modelo tomó una decisión específica.
+
+- **Ejemplo:** Sabemos que el modelo clasificó la foto como "Gato", pero no podemos señalar exactamente qué combinación de neuronas en la capa 3 detectó los bigotes.

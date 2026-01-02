@@ -1,0 +1,3 @@
+El flujo de información desde la capa de entrada (**Input Layer**) hasta la capa de salida (**Output Layer**), pasando por las capas ocultas, para generar una predicción. No hay aprendizaje en este paso, solo cálculo.
+
+- **Ejemplo:** Ingresas la foto de un perro ($x$) $\rightarrow$ Multiplicación de matrices con **Weights** $\rightarrow$ Aplicación de **Activation Functions** $\rightarrow$ Resultado final: "85% probabilidad de Perro".

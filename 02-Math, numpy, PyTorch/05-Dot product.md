@@ -4,7 +4,7 @@ El **Dot Product** es una operaciÃ³n fundamental que reduce dos secuencias de nÃ
 
 Es la **summation** de los productos **element-wise** (elemento a elemento) de dos estructuras.
 
-> **Requirement:** Los **Vectors** deben tener la misma **length**.
+> **Requirement:** Los [[02-Terms and datatypes in math and computers|Vectors]] deben tener la misma **length**.
 
 $$\alpha = \mathbf{a} \cdot \mathbf{b} = \langle \mathbf{a}, \mathbf{b} \rangle = \mathbf{a}^T \mathbf{b} = \sum_{i=1}^{n} a_i b_i$$
 

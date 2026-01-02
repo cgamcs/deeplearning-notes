@@ -1,0 +1,3 @@
+Un [[Parameters|Parameter]] constante (a menudo denotado como $b$ o $x_0$) que se suma al resultado de la **Weighted Sum**. Permite desplazar la función de activación hacia la izquierda o derecha, asegurando que la neurona pueda activarse incluso si todos los inputs son cero.
+
+- **Ejemplo:** Piensa en la ecuación de la recta $y = mx + b$. El **Bias** es la $b$ (intersección en y). Sin él, la recta siempre tendría que pasar obligatoriamente por el origen $(0,0)$, limitando la capacidad del modelo para ajustarse a los datos.

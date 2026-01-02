@@ -1,0 +1,3 @@
+El algoritmo que calcula el gradiente (la "culpa" del error) para cada peso en la red. Viaja desde el final (**Output**) hacia el principio (**Input**), aplicando la regla de la cadena para saber cuánto contribuyó cada neurona al error total.
+
+- **Ejemplo:** Si el error fue alto, el **Backpropagation** le dice a la última capa: "Tú fuiste responsable del 40% del error", y esa capa pasa el mensaje a la anterior, distribuyendo la responsabilidad hacia atrás.

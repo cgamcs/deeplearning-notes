@@ -35,7 +35,7 @@ Establece que un Deep Learning model suficientemente rico/complejo puede aproxim
 
 Como sociedad, estamos depositando una **Blind Faith** (fe ciega) en una tecnología que no terminamos de entender.
 
-- **Understanding vs. Math:** Puedes entender la matemática del **Gradient Descent**, pero eso no significa que entiendas qué está aprendiendo a **representar** el modelo internamente.
+- **Understanding vs. Math:** Puedes entender la matemática del **[[Gradient Descent]]**, pero eso no significa que entiendas qué está aprendiendo a **representar** el modelo internamente.
 
 - **The Car Analogy:** Aunque no sepas mecánica, _podrías_ aprender cómo funciona un motor paso a paso (física, ingeniería). Con DL, entender cómo la red procesa la información interna es mucho más opaco.    
 
