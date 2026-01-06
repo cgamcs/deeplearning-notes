@@ -22,6 +22,6 @@ $$\hat{y} = x_0 w_0 + x_1 w_1 + x_2 w_2$$
     - Se compara la [[Prediction]] ($\hat{y}$) con el valor real ([[Ground Truth]] $y$).        
     - _Analogy:_ El cliente prueba el sándwich y da **feedback** (muy dulce, muy seco).
 
-3. **`[[Backpropagation]]` (Adjustment):**
-    - Se utiliza el valor del [[Loss Function|Loss]] para ajustar los `[[Weights]]` ($w$) en dirección opuesta al error.
+3. **[[Backpropagation]] (Adjustment):**
+    - Se utiliza el valor del [[Loss Function|Loss]] para ajustar los [[Weights]] ($w$) en dirección opuesta al error.
     - Aquí es donde entra el [[Gradient Descent]]: el algoritmo matemático para decidir si subir o bajar la cantidad de "jalea" ($w_2$).
