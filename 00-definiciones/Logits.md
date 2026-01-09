@@ -1,0 +1,3 @@
+El vector de puntuaciones crudas (**raw scores**) generado por la última capa de la red neuronal _antes_ de ser procesado por una [[Activation Function]] de normalización (típicamente [[07-Softmax]]). Matemáticamente, son valores reales no acotados $(-\infty, \infty)$ que representan la confianza "bruta" del modelo.
+
+- **Ejemplo:** Tu modelo clasifica imágenes en [Gato, Perro, Barco]. La salida final de la red es `[2.5, -1.0, 0.3]`. Estos números son los **Logits**. Son difíciles de interpretar directamente hasta que el **Softmax** los convierte en probabilidades `[0.85, 0.03, 0.12]`.

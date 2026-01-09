@@ -1,0 +1,1 @@
+Una métrica de la Teoría de la Información que cuantifica la incertidumbre o impureza en un conjunto de datos. En términos sencillos, mide cuánta "sorpresa" hay en promedio. Si un dataset es puramente de una clase (ej. solo bolas rojas), la entropía es 0.

@@ -1,0 +1,3 @@
+Un arreglo unidimensional de números (1D Array). En el contexto de Deep Learning, se considera un **Rank-1 Tensor**. Representa una magnitud y una dirección en un espacio vectorial, o simplemente una lista ordenada de [[Features]] de un solo objeto.
+
+- **Ejemplo:** Una sola fila de tu dataset que representa a un cliente: `[Edad: 25, Ingresos: 5000, Deuda: 0]`. Matemáticamente: $\vec{v} = [25, 5000, 0]$.

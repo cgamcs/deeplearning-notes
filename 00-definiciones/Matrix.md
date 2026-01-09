@@ -1,0 +1,3 @@
+Un arreglo bidimensional de números (2D Array) organizado en **Rows** (filas) y **Columns** (columnas). Se considera un **Rank-2 Tensor**. Es la estructura estándar para representar datasets tabulares o imágenes en escala de grises.
+
+- **Ejemplo:** Una imagen de MNIST de $28 \times 28$ píxeles es una matriz donde cada celda contiene un valor de brillo del 0 al 255. También, una hoja de cálculo de Excel con 100 filas y 5 columnas es una matriz de dimensión $(100, 5)$.

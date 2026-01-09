@@ -1,0 +1,1 @@
+Una función matemática que conserva el orden dado. Si $x_1 < x_2$, entonces $f(x_1) < f(x_2)$ (monótona creciente). En optimización, esto nos garantiza que si minimizamos la versión logarítmica de una función de error, también estamos minimizando la función original.

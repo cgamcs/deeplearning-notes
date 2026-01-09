@@ -1,0 +1,1 @@
+Una medida estadística de la dispersión de un conjunto de datos respecto a su media. A diferencia de la entropía, asume una relación lineal respecto a la distancia del centro y es muy sensible a valores atípicos (outliers) en distribuciones normales.

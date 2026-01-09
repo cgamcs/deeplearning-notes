@@ -1,0 +1,3 @@
+Un concepto fundamental en álgebra lineal que representa una **magnitud única** sin dirección. En el contexto de **Deep Learning**, es técnicamente un **Tensor de Rango 0** (0-D Tensor). Se diferencia de un Vector (1-D) o una Matrix (2-D) porque es solo un número aislado.
+
+- **Ejemplo:** El valor final de tu [[Loss Function]](ej. `0.054`) o tu [[Learning Rate]] (ej. `0.001`) son **Scalars**. No tienen filas ni columnas, son solo una cantidad.

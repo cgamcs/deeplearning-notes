@@ -1,0 +1,1 @@
+La propiedad de un algoritmo para resistir errores de aproximación (como el redondeo de punto flotante) durante la ejecución. Usar el **Log-Loss** (Cross Entropy) en lugar del error crudo es una técnica clave para mantener la estabilidad numérica en el entrenamiento de redes neuronales.
